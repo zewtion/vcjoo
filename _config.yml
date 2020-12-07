@@ -1,10 +1,10 @@
-lang:                  en
-title:                 Hydejack
+lang:                  ko
+title:                 sky-defer's diary
 logo:                  /assets/icons/icon.png
 copyright:             © 2020. All rights reserved.
-remote_theme: hydecorp/hydejack
-url                      : "https://vcjoo.github.io"
-baseurl                  : ""
+remote_theme:          hydecorp/hydejack
+url                      : "https://zewtion.github.io/vcjoo"
+baseurl                  : "/vcjoo"
 
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
